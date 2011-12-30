@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/isaiah/Desktop/html5/templates/yui'
+let g:netrw_dirhist_2='/home/isaiah/Desktop/tcuml/build'
+let g:netrw_dirhist_3='/home/isaiah/Desktop/tcuml'
+let g:netrw_dirhist_4='/home/isaiah/Desktop/tcuml/build'
+let g:netrw_dirhist_5='/home/isaiah/.vim'
+let g:netrw_dirhist_6='/home/isaiah/Documents'
+let g:netrw_dirhist_7='/home/isaiah/vimwiki'
+let g:netrw_dirhist_8='/var/lib/portage'
+let g:netrw_dirhist_9='/opt/sun-jdk-1.6.0.26'
